@@ -1,0 +1,51 @@
+_repo: The-Romance-of-Modern-MechanismMarvellously-Delicate-Scientific-Instruments_46094
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46094-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Williams, Archibald
+    birthdate: 1871
+    deathdate: 1934
+    gutenberg_agent_id: '5620'
+    url: http://www.gutenberg.org/2009/agents/5620
+description: ''
+gutenberg_issued: '2014-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46094'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Machinery'
+- !lcsh 'Electric machinery'
+- !lcc 'T'
+tableOfContents: 'Delicate instruments; watches and chronometers; the microtome; the
+  dividing engine; measuring machines -- Calculating machines -- Workshop machinery;
+  the lathe; planing machines; the steam hammer; hydraulic tools; electrical tools
+  in the shipyard -- Portable tools -- The pedrail: a walking steam-engine -- Internal
+  combustion engines; oil engines; engines worked with producer gas; blast furnace
+  gas engines -- Motor-cars; the motor omnibus; railway motor-cars -- The motor afloat;
+  pleasure boats; motor lifeboats; motor fishing boats; a motor fire float; the mechanism
+  of the motor boat; the two-stroke motor; motor boats for the navy -- The motor cycle
+  -- Fire engines -- Fire-alarms and automatic fire extinguishers -- The machinery
+  of a ship; the reversing engine; marine engine speed governors; the steering engine;
+  blowing and ventilating apparatus; pumps; feed heaters; feed-water filters; distillers;
+  refrigerators; the search-light; wireless telegraphy instruments; safety devices;
+  the transmission of power on a ship -- The nurse of the navy -- The mechanism of
+  diving -- Apparatus for raising sunken ships and treasure -- The handling of grain;
+  the elevator; the suction pneumatic grain-lifter; the pneumatic blast grain-lifter;
+  the combined system -- Mechanical transporters and conveyers; ropeways; cableways;
+  telpherage; coaling warships at sea -- Automatic weighers -- Transporter bridges
+  -- Boat- and ship-raising lifts -- A self-moving staircase -- Pneumatic mail tubes
+  -- An electric postal system -- Agricultural machinery; ploughs; drills and seeders;
+  reaping machines; threshing machines; petrol-driven field machinery; electrical
+  farming machinery -- Dairy machinery; milking machines; cream separators; a machine
+  for drying milk -- Sculpturing machines -- An automatic rifle; a ball-bearing rifle.'
+title: "The Romance of Modern Mechanism\r\nWith Interesting Descriptions in Non-technical\
+  \ Language of Wonderful Machinery and Mechanical Devices and Marvellously Delicate\
+  \ Scientific Instruments"
+url: http://www.gutenberg.org/ebooks/46094
